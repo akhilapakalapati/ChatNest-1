@@ -1,7 +1,3 @@
-Certainly! Below is a template for your README.md file based on the information you provided:
-
----
-
 # Chat Box Website
 
 Welcome to the Chat Box Website! This project is a real-time chat application where users can join chat rooms and engage in conversations with other users. The application features a frontend developed using React.js and a backend developed using Node.js with Express.js.
@@ -19,7 +15,7 @@ Welcome to the Chat Box Website! This project is a real-time chat application wh
 
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
-- **Database**: [You can mention if you used any specific database here]
+- **Database**: Sql
 - **Other Tools**: Chat Engine, Axios, CORS
 
 ## Installation
@@ -73,10 +69,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (`git push origin feature/my-feature`).
 6. Create a new Pull Request.
 
-## License
 
-[Include your license information here]
-
----
-
-Feel free to customize this template further based on your preferences or specific requirements. Let me know if you need any further assistance!
